@@ -15,3 +15,5 @@ Dans chaque fichier trouvé il recherche la présence de la chaine  "texte_control
 Si cette chaine n'est pas trouvée le script recherche "texte_recherché" et insère juste avant "texte à insérer"
 
 Dans le dépôt git. J'ai placé un contenu minimaliste de test et un .bat qui exécute le script
+
+J"ai réécrit le script en python pour couvrir les serveurs linux qui n'auraient pas php installé.

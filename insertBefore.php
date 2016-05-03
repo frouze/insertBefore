@@ -68,7 +68,7 @@ if ($argc != 5) {
     die("Usage: insertBefore.php <directory_source> <TextControl> <TextToSearch> <TextToBeInserted>\n".
 	"<TextControl> est une chaine dont on verifie la presence pour eviter d'inserer plusieurs fois le contenu\n".
 	"<TextToSearch> est le texte avant lequel on veut inserer du contenu\n".
-	"<TextToBeInserted> est le texte à inserer\n\n
+	"<TextToBeInserted> est le texte Ã  inserer\n\n
 	Use: insertBefore.php <directory_source> <TextControl> <TextToSearch> <TextToBeInserted>\n".
 	"<TextControl> is a string that we test le presence in the files, avoiding multiple insertion if the script is called many times\n".
 	"<TextToSearch> is the string before which we want to insert our content\n".
